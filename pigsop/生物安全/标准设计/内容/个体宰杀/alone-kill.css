@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,
+body{
+    width: 100%;
+    height: 100%;
+    font-family: "Microsoft Yahei",tahoma,arial;
+    font-size: 16px;
+    color: #333;
+    line-height: 30px;
+}
+.header{
+    width: 100%;
+    height: 42px;
+    background-color: #494A5F;
+    text-align: center;
+    color: #ffffff;
+    line-height: 42px;
+}
+.header p{
+    display: inline-block;
+    margin-left: -34px;
+}
+.header span{
+    float: left;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    /* border: 1px solid black; */
+    vertical-align: middle;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+.header span img{
+    width: 24px;
+    height: 24px;
+}
+.bdy{
+    width: 374px;
+    height: 9014px;
+    padding: 20px;
+    /* border: 1px solid black; */
+}
+.bdy h1{
+    width: 374px;
+    height: 28px;
+    padding: 3px 0;
+    font-size: 18px;
+    word-wrap: break-word;
+    word-break: normal;
+    padding: 3px 0;
+    line-height: 28px;
+    font-weight: bold;
+}
+.bdy p{
+    width: 374px;
+    height: 26px;
+    text-align: left;
+    font-size: 12PX;
+    color: #b2b2b2;
+    overflow: hidden;
+    height: 26px;
+}
+.bdy .text{
+    margin-top: 10px;
+    width: 374px;
+    height: 128px;
+    /* border: 1px solid black; */
+    font-size: 14px;
+}
+.bdy .text1{
+    height: 210px;
+}
+.bdy .text2{
+    height: 240px;
+}
+.bdy .text3{
+    height: 120px;
+}
+.bdy .text4{
+    height: 150px;
+}
+.bdy .text5{
+    height: 210px;
+}
+.bdy .text6{
+    height: 210px;
+}
+.bdy .text7{
+    height: 690px;
+}
+.bdy .text8{
+    height: 300px;
+}
+
